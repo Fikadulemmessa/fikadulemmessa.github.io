@@ -52,16 +52,8 @@ p2 {
    font-weight: 300;
     text-align: center;
     color: yellow;
-    font-size: 30px;
+    font-size: 20px;
 }
-#justify p2 {
-    margin: 0 auto;
-    max-width: 70%;
-    list-style: disc outside none;
-    text-align: justify;
-    display: list-item;
-    background: #ccc;
-    }
 
 p3 {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 300;
