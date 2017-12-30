@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywods" content="maps,cartography, visualization, GIS"/>
+    <title>Fikadu Lemmessa</title>
+    <!-- <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'> -->
+    <!--put your Bootstrap stylesheet links below this comment and above style.css-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+  <script type="text/javascript" src="lib/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="lib/bootstrap.min.js"></script>
+  <nav class="navbar navbar-default navbar-fixed-top main-navbar"> <!-- Creates the navbar -->
+      <div class="container">
+        <div class="navbar-header"> <!-- Creates the navbar header -->
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span> <!-- Used for screen readers for accessibility -->
+        <span class="glyphicon glyphicon-menu-hamburger"></span>
+        <span class="menu"> Menu</span>
+          </button> <!-- Hamburger button for smaller devices -->
+      <a class="navbar-brand" href="index.html">Fikadu Lemmessa</a> <!-- Your website brand name -->
+        </div>
+
+        <div id="navbar" class="collapse navbar-collapse" id="navbar"> <!-- Links to include in navbar -->
+          <ul class="nav navbar-nav">  <!-- Unordered list for links on navbar -->
+            <li><a href="index.html">Home</a></li>
+        <li><a href="About.html">About</a></li>
+            <li><a href="Maps.html">Maps</a></li>
+            <li><a href="Labs.html">Labs</a></li>
+            <li><a href="My Works.html">My Works</a></li>
+            <li><a href="Projects.html">Projects</a>
+            <li><a href="Contacts.html">Contact</a></li>
+        </div> <!-- end .navbar-collapse -->
+      </div> <!-- end .container -->
+    </nav> <!-- end navigation bar -->
+  <div class="jumbotron">
+      <div class="container">
+        <h2>Fikadu Lemmessa | MSGT Student at University of Washington Tacoma</h2>
+        <p></p>
+      </div>
+    </div>
+<div class="page-header">
+      <section class="success" id="about">
+      <div class="container">
+        <h2 class="text-center">Lab 4 | Live data Streeming on a map </h2>
+        <hr class="star-light">
+        <center>
+          <iframe src="http://uwt-gis-geotech.maps.arcgis.com/apps/MapSeries/index.html?appid=ead28ae553174a2caeb747daa117fa77" width="90%" height="575" frameborder="20" align="middle"></iframe>
+        </center>
+        <br>
+        <div class="description">
+          <center>
+            Map showing live earth quake data using Google API data from USGS in the form of KML
+          </center>
+        </div>
+        <br>
+         <center>
+          <iframe src="http://uwt-gis-geotech.maps.arcgis.com/apps/StorytellingSwipe/index.html?appid=4e7cf33bf91447d4ac0bef71950a2630" width="90%" height="575" frameborder="20" align="middle"></iframe>
+        </center>
+        <br>
+        <div class="description">
+          <center>
+            Map showing live earth quake data using Google API data from USGS in the form of GEOJOSON
+          </center>
+        </div>
+        <br>
+         <center>
+          <iframe src="https://students.washington.edu/fikadule/earthquakeesrikml.html" width="90%" height="575" frameborder="20" align="middle"></iframe>
+        </center>
+      </div>
+        <br>
+        <div class="description">
+          <center>
+            Displaying kml live earth quake data using ERI API
+          </center>
+        </div>
+        <br>
+    </section>
+</div>
+</body>
+</html>
