@@ -1,0 +1,770 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 34,
+        "name": "rock painting 1",
+        "type": null,
+        "Descriptio": "rock painting 1"
+      },
+      "geometry": {
+        "coordinates": [
+          34.755292,
+          10.338298
+        ],
+        "type": "Point"
+      },
+      "id": "049514ae9c99eafdf2dddccd7f77c7f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 35,
+        "name": "rock painting 2",
+        "type": null,
+        "Descriptio": "rock painting 2"
+      },
+      "geometry": {
+        "coordinates": [
+          34.74502,
+          10.339802
+        ],
+        "type": "Point"
+      },
+      "id": "0e2202e264d27823d5a8e15d57ffb91e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 14,
+        "name": "Heyna Feeding",
+        "type": "3",
+        "Descriptio": "Heyna Feeding"
+      },
+      "geometry": {
+        "coordinates": [
+          42.142628,
+          9.307811
+        ],
+        "type": "Point"
+      },
+      "id": "1780f50d5ecf423af21abcf41aa3f14f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "name": "Wenchi Tourist Office",
+        "type": null,
+        "Descriptio": "Wenchi Tourist Office"
+      },
+      "geometry": {
+        "coordinates": [
+          37.868736,
+          8.785974
+        ],
+        "type": "Point"
+      },
+      "id": "28d2b0e138766fc241f9f924ece203fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 44,
+        "name": "Debre Damo Monastery",
+        "type": "1",
+        "Descriptio": "Debre Damo Monastery"
+      },
+      "geometry": {
+        "coordinates": [
+          39.292024,
+          14.374492
+        ],
+        "type": "Point"
+      },
+      "id": "31bb3b61eb306aa35d2d48dc6ce87e33"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 6,
+        "name": "Sof Omar Caves",
+        "type": "2",
+        "Descriptio": "Sof Omar Caves"
+      },
+      "geometry": {
+        "coordinates": [
+          40.845361,
+          6.906524
+        ],
+        "type": "Point"
+      },
+      "id": "321fb22983a33e0a67233122ef4f9f82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 19,
+        "name": "Thume Kumbi",
+        "type": null,
+        "Descriptio": "Thume Kumbi"
+      },
+      "geometry": {
+        "coordinates": [
+          42.14257,
+          9.307712
+        ],
+        "type": "Point"
+      },
+      "id": "3684064e0efbf438c07c66ab67b8ed5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30,
+        "name": "Asale Red Rocks",
+        "type": null,
+        "Descriptio": "Asale Red Rocks"
+      },
+      "geometry": {
+        "coordinates": [
+          40.347826,
+          14.11677
+        ],
+        "type": "Point"
+      },
+      "id": "39cccd96d49615f353789c496f6c8634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "name": "King of the Konso",
+        "type": "1",
+        "Descriptio": "King of the Konso"
+      },
+      "geometry": {
+        "coordinates": [
+          37.401144,
+          5.331131
+        ],
+        "type": "Point"
+      },
+      "id": "3f2d45adcdcf28349073401a5fe68cf6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 20,
+        "name": "Raimbaud House",
+        "type": null,
+        "Descriptio": "Raimbaud House"
+      },
+      "geometry": {
+        "coordinates": [
+          42.137945,
+          9.309821
+        ],
+        "type": "Point"
+      },
+      "id": "4209f0d2b474bada0ef425f0542097ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 40,
+        "name": "Alebachew Washa Cave",
+        "type": null,
+        "Descriptio": "Alebachew Washa Cave"
+      },
+      "geometry": {
+        "coordinates": [
+          38.786148,
+          10.873128
+        ],
+        "type": "Point"
+      },
+      "id": "467a602599b4c9c30d9d9f0e4a42c91f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 8,
+        "name": null,
+        "type": null,
+        "Descriptio": null
+      },
+      "geometry": {
+        "coordinates": [
+          40.021521,
+          9.111252
+        ],
+        "type": "Point"
+      },
+      "id": "489d8fe3e29397b41ae6351502f6cd92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25,
+        "name": "Gudit Stelae Field",
+        "type": "1",
+        "Descriptio": "Gudit Stelae Field"
+      },
+      "geometry": {
+        "coordinates": [
+          38.70649,
+          14.125724
+        ],
+        "type": "Point"
+      },
+      "id": "4ad099e86eaa0c41ca58e6d795e5c481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23,
+        "name": "Arba Minch Crocodile Ranch",
+        "type": null,
+        "Descriptio": "Arba Minch Crocodile Ranch"
+      },
+      "geometry": {
+        "coordinates": [
+          37.598763,
+          6.025701
+        ],
+        "type": "Point"
+      },
+      "id": "51651e010af45b448c7d56f703d699fd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 18,
+        "name": "Hayna Feeding",
+        "type": "3",
+        "Descriptio": "Hayna Feeding"
+      },
+      "geometry": {
+        "coordinates": [
+          42.137885,
+          9.31499
+        ],
+        "type": "Point"
+      },
+      "id": "5afdcc34dc493fa63a51c33c0678f36b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 36,
+        "name": "Abune Mlek Zede",
+        "type": null,
+        "Descriptio": "Abune Mlek Zede"
+      },
+      "geometry": {
+        "coordinates": [
+          39.088157,
+          10.235201
+        ],
+        "type": "Point"
+      },
+      "id": "5e288aa99fe18d59c6e3c4ef3ea1c04c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 11,
+        "name": "Crocodile Market",
+        "type": null,
+        "Descriptio": "Crocodile Market"
+      },
+      "geometry": {
+        "coordinates": [
+          37.55442,
+          5.92532
+        ],
+        "type": "Point"
+      },
+      "id": "5ee5725ebca947fd889756109bad4b48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26,
+        "name": "Dungur / Palace of Queen of Sheba",
+        "type": "1",
+        "Descriptio": "Dungur / Palace of Queen of Sheba"
+      },
+      "geometry": {
+        "coordinates": [
+          38.706497,
+          14.12683
+        ],
+        "type": "Point"
+      },
+      "id": "65921a614c6e799d82b5678e40abcff5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 33,
+        "name": "Stone Hole",
+        "type": null,
+        "Descriptio": "Stone Hole"
+      },
+      "geometry": {
+        "coordinates": [
+          39.072237,
+          12.019094
+        ],
+        "type": "Point"
+      },
+      "id": "6610f532f70db22374ce9a2b282aa415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "name": "Blue Nile Falls",
+        "type": "2",
+        "Descriptio": "Blue Nile Falls"
+      },
+      "geometry": {
+        "coordinates": [
+          37.587977,
+          11.491046
+        ],
+        "type": "Point"
+      },
+      "id": "67ef6110cf95d9c97432e9e128aa9bd2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29,
+        "name": "Hawassa Beach",
+        "type": "2",
+        "Descriptio": "Hawassa Beach"
+      },
+      "geometry": {
+        "coordinates": [
+          38.467446,
+          7.054926
+        ],
+        "type": "Point"
+      },
+      "id": "68f2a81b6df3a1b0ad6cc410963324b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 22,
+        "name": "Potery Association",
+        "type": null,
+        "Descriptio": "Potery Association"
+      },
+      "geometry": {
+        "coordinates": [
+          37.570682,
+          6.199524
+        ],
+        "type": "Point"
+      },
+      "id": "7d4d63c23b5f6650b8750310e59b0d41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 43,
+        "name": "Ezana Inscription",
+        "type": "1",
+        "Descriptio": "Ezana Inscription"
+      },
+      "geometry": {
+        "coordinates": [
+          38.722876,
+          14.137846
+        ],
+        "type": "Point"
+      },
+      "id": "8481f0404927fd38e842663bc6387aed"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 15,
+        "name": "waterhole",
+        "type": null,
+        "Descriptio": "waterhole"
+      },
+      "geometry": {
+        "coordinates": [
+          43.540321,
+          5.94364
+        ],
+        "type": "Point"
+      },
+      "id": "85b3a5489bbc1a843dfe63b2ce57a807"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31,
+        "name": "Yellow Pond",
+        "type": null,
+        "Descriptio": "Yellow Pond"
+      },
+      "geometry": {
+        "coordinates": [
+          40.322227,
+          14.2121
+        ],
+        "type": "Point"
+      },
+      "id": "85cd92473b8e5fd48cf217d03451d7c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 12,
+        "name": "Debre Libanos 2 Port. Bridge",
+        "type": null,
+        "Descriptio": "Debre Libanos 2 Port. Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          38.85201,
+          9.71219
+        ],
+        "type": "Point"
+      },
+      "id": "88009fdc166945833790e9aec5060d2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 39,
+        "name": "Sof Omar Caves",
+        "type": "2",
+        "Descriptio": "Sof Omar Caves"
+      },
+      "geometry": {
+        "coordinates": [
+          40.850865,
+          6.89911
+        ],
+        "type": "Point"
+      },
+      "id": "8a36f7739386df2f4a6660d5fd858c2d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 41,
+        "name": "Portugese Castle",
+        "type": null,
+        "Descriptio": "Portugese Castle"
+      },
+      "geometry": {
+        "coordinates": [
+          38.276407,
+          10.863223
+        ],
+        "type": "Point"
+      },
+      "id": "8b3d753379b257020ed8ab6c201dac8c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 42,
+        "name": "Dorze Village",
+        "type": "3",
+        "Descriptio": "Dorze Village"
+      },
+      "geometry": {
+        "coordinates": [
+          37.570983,
+          6.203424
+        ],
+        "type": "Point"
+      },
+      "id": "8cba6a0e37cc855958c90ffe29b36225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27,
+        "name": "Menelik II Military Camp",
+        "type": null,
+        "Descriptio": "Menelik II Military Camp"
+      },
+      "geometry": {
+        "coordinates": [
+          39.300219,
+          9.225862
+        ],
+        "type": "Point"
+      },
+      "id": "8d814e3b8a18dbc1f94d31d28b67f953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 37,
+        "name": "Abida Mosque Drum Place",
+        "type": null,
+        "Descriptio": "Abida Mosque Drum Place"
+      },
+      "geometry": {
+        "coordinates": [
+          42.139014,
+          9.312162
+        ],
+        "type": "Point"
+      },
+      "id": "93eac2d8a2ef63253befa6b77ce41d56"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "name": "Tombs of Kings Kaleb and Gebremeskel",
+        "type": "1",
+        "Descriptio": "Tombs of Kings Kaleb and Gebremeskel"
+      },
+      "geometry": {
+        "coordinates": [
+          38.729248,
+          14.142291
+        ],
+        "type": "Point"
+      },
+      "id": "97de3aeb24d6357ef0391cc815c27107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "name": "Baths of Queen Sheba",
+        "type": "1",
+        "Descriptio": "Baths of Queen Sheba"
+      },
+      "geometry": {
+        "coordinates": [
+          38.721506,
+          14.134205
+        ],
+        "type": "Point"
+      },
+      "id": "988927aa87a81def7ef2aa736c3e9c5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 17,
+        "name": "Cave Entrance",
+        "type": "1",
+        "Descriptio": "Cave Entrance"
+      },
+      "geometry": {
+        "coordinates": [
+          40.849305,
+          6.90091
+        ],
+        "type": "Point"
+      },
+      "id": "9f9367304fcd4293ace363ffa9286362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 9,
+        "name": "Sodere Hot Spring - Actual Spring",
+        "type": "2",
+        "Descriptio": "Sodere Hot Spring - Actual Spring"
+      },
+      "geometry": {
+        "coordinates": [
+          39.39766,
+          8.39604
+        ],
+        "type": "Point"
+      },
+      "id": "a432f3ab390fcfe280b95d5ce9694a4e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "name": "Northern Stelae Field",
+        "type": "1",
+        "Descriptio": "Northern Stelae Field"
+      },
+      "geometry": {
+        "coordinates": [
+          38.719297,
+          14.132006
+        ],
+        "type": "Point"
+      },
+      "id": "a5536228dfa2a7f724f576c80c1b66c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24,
+        "name": "Hot Springs Semara",
+        "type": "2",
+        "Descriptio": "Hot Springs Semara"
+      },
+      "geometry": {
+        "coordinates": [
+          41.013229,
+          11.646745
+        ],
+        "type": "Point"
+      },
+      "id": "a7b78702cc7f6a24d9591aaf25d90c58"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28,
+        "name": "Fish Market",
+        "type": null,
+        "Descriptio": "Fish Market"
+      },
+      "geometry": {
+        "coordinates": [
+          38.460404,
+          7.043117
+        ],
+        "type": "Point"
+      },
+      "id": "b0bb02d136ea0ed068bdfa880ea5d187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 16,
+        "name": "Dire Dawa Rock Paintings",
+        "type": "1",
+        "Descriptio": "Dire Dawa Rock Paintings"
+      },
+      "geometry": {
+        "coordinates": [
+          41.675683,
+          9.500036
+        ],
+        "type": "Point"
+      },
+      "id": "cfa76b3fa42831be5dc1cfe2533d1545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 32,
+        "name": "Salt Carving",
+        "type": null,
+        "Descriptio": "Salt Carving"
+      },
+      "geometry": {
+        "coordinates": [
+          40.342082,
+          14.105399
+        ],
+        "type": "Point"
+      },
+      "id": "d5ac0b1363cc8abb4805ce65768fb4d0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 45,
+        "name": "Fasiledes Castle",
+        "type": "1",
+        "Descriptio": "Fasiledes Castle"
+      },
+      "geometry": {
+        "coordinates": [
+          37.469783,
+          12.608076
+        ],
+        "type": "Point"
+      },
+      "id": "d847fe5b828da5e648edf0a0bbff1e06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 10,
+        "name": "Portuguese Bridge",
+        "type": null,
+        "Descriptio": "Portuguese Bridge"
+      },
+      "geometry": {
+        "coordinates": [
+          38.813844,
+          9.733696
+        ],
+        "type": "Point"
+      },
+      "id": "d9c869fc16eed840cc977803323292a0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 21,
+        "name": "Haile Selassie House",
+        "type": "1",
+        "Descriptio": "Haile Selassie House"
+      },
+      "geometry": {
+        "coordinates": [
+          42.137373,
+          9.309743
+        ],
+        "type": "Point"
+      },
+      "id": "e6a367a49e0d11df11aa0c6be8bec6a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 38,
+        "name": "Thomb of Emir Nur",
+        "type": "1",
+        "Descriptio": "Thomb of Emir Nur"
+      },
+      "geometry": {
+        "coordinates": [
+          42.137773,
+          9.311216
+        ],
+        "type": "Point"
+      },
+      "id": "f61eb0530ea092038d32489e75775846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 13,
+        "name": "Debre Libanos Cave",
+        "type": "2",
+        "Descriptio": "Debre Libanos Cave"
+      },
+      "geometry": {
+        "coordinates": [
+          38.84772,
+          9.70906
+        ],
+        "type": "Point"
+      },
+      "id": "fe910e3c14c2091c6bc9860e4c7c62bf"
+    }
+  ],
+  "type": "FeatureCollection"
+}
