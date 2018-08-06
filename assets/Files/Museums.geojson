@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Emperor Yohannes Palace", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 39.4781925, 13.4979086 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Hawelti Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 39.4598502, 13.4913303 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Menelik II Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.765113, 9.0242459 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Blue Nile Hotel", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.4897827, 7.0569166 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Harar cultural museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 42.1376208, 9.3109738 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Arboretum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.6531146, 7.0760858 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Black Lion Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.6180206, 7.2113465 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Ura Kidane Meret", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 37.3412378, 11.6949682 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Archaeological Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.7190563, 14.1327631 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Coffee Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 36.2484079, 7.2623668 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Mosque", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 34.4153254, 9.5446763 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Menelik II Palace", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.764444, 9.0891942 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "“Red Terror” Martyrs’ Memorial Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.7630663, 9.0101003 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Harari Community Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 42.1400569, 9.3105957 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Archaeology Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.7639581, 9.0329806 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "ቤ\/ፅ ህወሓት TPLFOffice", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 39.4613759, 13.4893678 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Dimtsi Woyane Radiation ድምፂ ወያነ ትግራይ", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 39.4603988, 13.4939457 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Melesi foundation", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 38.7232912, 9.0838479 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Lucy", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 41.0076211, 11.7919623 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Sherif Harari City Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 42.1373713, 9.3097257 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "Wukro Museum", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 39.6104879, 13.7896533 ] } },
+{ "type": "Feature", "properties": { "code": 2722, "fclass": "museum", "name": "አባ ጅፋር ቤተመንግስት", "Descriptio": null }, "geometry": { "type": "Point", "coordinates": [ 36.8728194, 7.701035 ] } }
+]
+}
